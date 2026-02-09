@@ -12,5 +12,7 @@ Snap events: https://www.youtube.com/watch?v=aF-tZEdJ3DE
 
 Shapes: https://www.youtube.com/watch?v=poO9xjQkxPU
 
+Conditional: https://www.youtube.com/watch?v=cPoezRmAz8A
+
 
 
