@@ -18,3 +18,4 @@ If-Else: https://www.youtube.com/watch?v=qIFEYvlMd7U
 
 Nested if else: https://www.youtube.com/watch?v=oNrYvtWjURQ
 
+Compound: https://www.youtube.com/watch?v=RdpfK_V9_3w
